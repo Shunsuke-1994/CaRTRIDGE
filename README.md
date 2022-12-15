@@ -5,6 +5,8 @@ Code repository for "Programmable mammalian translational modulators by CRISPR-a
 - viennarna
 - pandas 
 - openpyxl
+- matplotlib
+- scipy
 
 # Directories
 ```
